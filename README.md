@@ -32,6 +32,8 @@ If __name__ == “__main__” :
 
 5.Llevar el Archivo Místico al interprete: Una vez que tengas el Archivo Místico en tu posesión, dirígete a la Fortaleza del malvado interprete git . Allí, utiliza tu magia de programación para abrir el archivo y descubrir sus secretos.
 
+![](https://github.com/jsotomonte/reto2/blob/main/WhatsApp%20Image%202023-08-25%20at%207.56.28%20PM.jpeg)
+
 
 6.Convocar el Poder de Visual Studio Code: Viaja a la Ciudad de Lunargenta y busca al Maestro de las Artes Digitales, quien te enseñará el encantamiento necesario para convocar a Visual Studio Code, una herramienta mágica que te permitirá ejecutar el código.
 
