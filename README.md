@@ -14,6 +14,11 @@ Ciudad Tecnológica de programmaria
 
 1.Recuperar el Pergamino del Código Mágico: Dirígete al Templo de las Artes Arcanas, ubicado en las profundidades de la Ciudad de Dalaran. Allí, encontrarás el antiguo Pergamino del Código Mágico.
 
+```
+If __name__ == “__main__” :
+  Print(“Hola mundo”)
+```
+
 2.Descifrar el Pergamino: Una vez que hayas recuperado el Pergamino, viaja a la Biblioteca Arcana de la Ciudad de Ventormenta, donde reside el sabio Archimago. Él te proporcionará las pistas necesarias para descifrar el código mágico.
 
 3.Guardar el Código en el Libro de Hechizos: Utilizando el conocimiento impartido por el Archimago, guarda el código mágico en un libro de hechizos llamado Bloc de notas. Sin embargo, este no es un libro común; guarda tu archivo y ponle .py al final.
