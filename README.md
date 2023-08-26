@@ -37,6 +37,8 @@ If __name__ == “__main__” :
 
 6.Convocar el Poder de Visual Studio Code: Viaja a la Ciudad de Lunargenta y busca al Maestro de las Artes Digitales, quien te enseñará el encantamiento necesario para convocar a Visual Studio Code, una herramienta mágica que te permitirá ejecutar el código.
 
+![](https://github.com/jsotomonte/reto2/blob/main/WhatsApp%20Image%202023-08-25%20at%208.17.19%20PM.jpeg)
+
 
 ### Recompensas: 
 1.Experiencia en programación +500 puntos
