@@ -28,6 +28,7 @@ If __name__ == “__main__” :
 
 4.Ejecutar los Códigos Antiguos: Dentro del Archivo Místico, encontrarás códigos ancestrales que deben ser ejecutados en el terminal. Asegúrate de que funcionen sin errores y desbloquea el siguiente paso de la misión.
 
+![](https://github.com/jsotomonte/reto2/blob/main/WhatsApp%20Image%202023-08-25%20at%207.59.10%20PM.jpeg)
 
 5.Llevar el Archivo Místico al interprete: Una vez que tengas el Archivo Místico en tu posesión, dirígete a la Fortaleza del malvado interprete git . Allí, utiliza tu magia de programación para abrir el archivo y descubrir sus secretos.
 
