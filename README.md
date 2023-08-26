@@ -23,6 +23,8 @@ If __name__ == “__main__” :
 
 3.Guardar el Código en el Libro de Hechizos: Utilizando el conocimiento impartido por el Archimago, guarda el código mágico en un libro de hechizos llamado Bloc de notas. Sin embargo, este no es un libro común; guarda tu archivo y ponle .py al final.
 
+![](https://github.com/jsotomonte/reto2/blob/main/WhatsApp%20Image%202023-08-25%20at%209.23.30%20PM.jpeg)
+
 
 4.Ejecutar los Códigos Antiguos: Dentro del Archivo Místico, encontrarás códigos ancestrales que deben ser ejecutados en el terminal. Asegúrate de que funcionen sin errores y desbloquea el siguiente paso de la misión.
 
